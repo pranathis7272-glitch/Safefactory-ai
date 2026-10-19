@@ -1,0 +1,6 @@
+{
+  "name": "SafeFactory AI — Safety Memory & Prevention Engine",
+  "description": "Industrial safety memory and recurrence prevention engine linking reviewed workplace incidents, explainable risk prioritization, corrective action loops, and AI vision inspections.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
